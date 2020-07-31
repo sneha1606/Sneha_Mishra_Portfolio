@@ -40,7 +40,16 @@ Tool Used: Python
 
 This project is used to analyse and predict the heart risk that can occur to a person considering the factors which are as followed, risk of heart disease depending on the blood pressure of the person, risk of heart disease and it erelation with the age and risk of heart disease for a smoker or a non smoker person. 
 
-[*Project 4: Elearn Portal Database*](https://github.com/sneha1606/Elearn-Portal-Database)
+[*Project 4: Insurance Prediction*](https://github.com/sneha1606/Predict-insurance)
+
+Overview:
+
+Method Focused on: Linear Regression
+Tool Used: Python
+
+This project is used to predict a persons insurance charges which can be levied using the method of regression, the parameters such as bmi, age, sex, etc. are used to determine these charges.
+
+[*Project 5: Elearn Portal Database*](https://github.com/sneha1606/Elearn-Portal-Database)
 
 Overview:
 
