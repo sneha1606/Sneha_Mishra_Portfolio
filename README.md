@@ -4,6 +4,8 @@ I am an enthusiastic, data oriented Engineer-Mba having an acute interest in ana
 
 'Analytics Anywhere' is a blog authored by me wherein the objective for this blog is to simplilfy the concepts of analytics, making it simpler to understand to the non-technical people and stakeholders. This blog simplifies and connects real world scenarios to the different concepts of analytics. 
 
+![](https://github.com/sneha1606/Sneha_Mishra_Portfolio/blob/master/Images/Henchmen.JPG)
+
 # [Projects:](https://github.com/sneha1606)
 
 [*Project 1: Public Expenditure on Education*](https://github.com/sneha1606/Public-Expenditure-on-Education)
