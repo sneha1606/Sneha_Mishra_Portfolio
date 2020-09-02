@@ -33,7 +33,7 @@ Linear regression is used for the following project as the distribution shown be
 
 ![](https://github.com/sneha1606/Sneha_Mishra_Portfolio/blob/master/Images/Distribution%20Curve.png)
 
-[*Project 3: Manufacturing Unite Working or Not Prediction*](https://github.com/sneha1606/Heart-Disease-Risk)
+[*Project 3: Manufacturing Unite Working or Not Prediction*](https://github.com/sneha1606/Manufacturing-Prediction)
 
 Overview:
 
