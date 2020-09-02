@@ -33,7 +33,20 @@ Linear regression is used for the following project as the distribution shown be
 
 ![](https://github.com/sneha1606/Sneha_Mishra_Portfolio/blob/master/Images/Distribution%20Curve.png)
 
-[*Project 3: Heart Disease Risk Analysis*](https://github.com/sneha1606/Heart-Disease-Risk)
+[*Project 3: Manufacturing Unite Working or Not Prediction*](https://github.com/sneha1606/Heart-Disease-Risk)
+
+Overview:
+
+Method Focused on: Logistic Regression
+Tool Used: Python (Jupyter Notebook)
+
+Considering the indicators of sales, equivalent cash compensation, number of employees and the capital investment made in a manufacturing site, determine whether the site can still be operational or not. Also understand whether these predictors have effect on the functioning of the manufacturing site.
+
+The Histogram to show the categorical varibale spread and th confusion Matrix for the project is displayed below:
+![](https://github.com/sneha1606/Sneha_Mishra_Portfolio/blob/master/Images/HistogramPlot.jpg)
+![](https://github.com/sneha1606/Sneha_Mishra_Portfolio/blob/master/Images/ConfusionMatrix.jpg)
+
+[*Project 4: Heart Disease Risk Analysis*](https://github.com/sneha1606/Heart-Disease-Risk)
 
 Overview:
 
@@ -42,7 +55,7 @@ Tool Used: Python
 
 This project is used to analyse and predict the heart risk that can occur to a person considering the factors which are as followed, risk of heart disease depending on the blood pressure of the person, risk of heart disease and it erelation with the age and risk of heart disease for a smoker or a non smoker person. 
 
-[*Project 4: Insurance Prediction*](https://github.com/sneha1606/Predict-insurance)
+[*Project 5: Insurance Prediction*](https://github.com/sneha1606/Predict-insurance)
 
 Overview:
 
@@ -51,12 +64,12 @@ Tool Used: Python
 
 This project is used to predict a persons insurance charges which can be levied using the method of regression, the parameters such as bmi, age, sex, etc. are used to determine these charges.
 
-[*Project 5: Elearn Portal Database*](https://github.com/sneha1606/Elearn-Portal-Database)
+[*Project 6: Elearn Portal Database*](https://github.com/sneha1606/Elearn-Portal-Database)
 
 Overview:
 
 Method Focused on: SQL
-Tool Used: SQLite Studio
+Tool Used: SQLite Studio / SQite3
 
 The sudden shift towards the online educational methods due to the current pandemic has reulted in the boost of the softwares which provides a virtual platform for the institutes to connect in a better way with their students. This project aimed at developing a database for an elearning platform for such IT solutions which are provided to various schools and colleges etc. The planning for the database to be implemented included understanding the sector and creation of an Entity - Relationship Diagram (The below mentioned diagram is the ER-Diagram for elearn portal). An entire database using dummy data was created for implementation of the project.
 
