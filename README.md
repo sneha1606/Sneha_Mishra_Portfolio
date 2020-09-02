@@ -43,8 +43,8 @@ Tool Used: Python (Jupyter Notebook)
 Considering the indicators of sales, equivalent cash compensation, number of employees and the capital investment made in a manufacturing site, determine whether the site can still be operational or not. Also understand whether these predictors have effect on the functioning of the manufacturing site.
 
 The Histogram to show the categorical varibale spread and th confusion Matrix for the project is displayed below:
+
 ![](https://github.com/sneha1606/Sneha_Mishra_Portfolio/blob/master/Images/HistogramPlot.jpg)
-![](https://github.com/sneha1606/Sneha_Mishra_Portfolio/blob/master/Images/ConfusionMatrix.jpg)
 
 [*Project 4: Heart Disease Risk Analysis*](https://github.com/sneha1606/Heart-Disease-Risk)
 
