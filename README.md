@@ -76,3 +76,25 @@ The sudden shift towards the online educational methods due to the current pande
 [The ER - Diagram for the database is show below]
 
 ![](https://github.com/sneha1606/Sneha_Mishra_Portfolio/blob/master/Images/Entity%20Relationship%20Diagram.png)
+
+[*Project 7: Google Play Store Analysis*](https://github.com/sneha1606/GooglePlayStore)
+
+Overview:
+
+Method ocused on: Supervised Machine Learning Algorithm
+Tool Used: Python (Jupyter Notebook)
+
+Internet is a true gold mine of data. E-commerce and review sites have a lot of untapped data with a prominent potential to convert into meaningful insights that can help with robust decision making. Google Play Store is one such avenue on the internet. Also Google Play Store uses sophisticated modern-day techniques (like dynamic page load) using JQuery making scraping more challenging.
+
+[Below is the table of all the Random Forest Algorithm applied and its results compared with multiple parameter changes]
+
+![](https://github.com/sneha1606/Sneha_Mishra_Portfolio/blob/master/Images/Random%20Forest%20Google%20Play.PNG)
+
+[*Project 8: Fashion MNIST*](https://github.com/sneha1606/FashionMNIST_Dataset)
+
+Overview:
+
+Method ocused on: Deep Learning (Keras)
+Tool Used: Python (Jupyter Notebook)
+
+Fashion-MNIST is a dataset of Zalando's article images consisting of a training set of 60,000 examples and a test set of 10,000 examples. Each example is a 28x28 grayscale image, associated with a label from 10 classes. It is split in 10,000 as test and 50,000 as train datasets.
