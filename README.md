@@ -21,19 +21,7 @@ Some of the resultant visualisations are shown below:
 ![](https://github.com/sneha1606/Sneha_Mishra_Portfolio/blob/master/Images/Education%20Investment%20COnsidering%20Union%20Budget%20and%20GDP.png)
 ![](https://github.com/sneha1606/Sneha_Mishra_Portfolio/blob/master/Images/Sector%20wise%20educational%20expenditure.png)
 
-[*Project 2: Heart Disease Prediction*](https://github.com/sneha1606/Heart-Disease/tree/master)
-
-Overview:
-
-Method Focused on: Linear Regression
-Tool Used: Python
-
-The goal is to predict the rate of heart disease (per 100,000 individuals) across the United States at the county-level from other socioeconomic indicators. The data is compiled from a wide range of sources . There are 33 variables in this dataset. Each row in the dataset represents a United States county, and the dataset we are working with covers two particular years, denoted a, and b We don't provide a unique identifier for an individual county, just a row_id for each row.
-Linear regression is used for the following project as the distribution shown below:
-
-![](https://github.com/sneha1606/Sneha_Mishra_Portfolio/blob/master/Images/Distribution%20Curve.png)
-
-[*Project 3: Manufacturing Unite Working or Not Prediction*](https://github.com/sneha1606/Manufacturing-Prediction)
+[*Project 2: Manufacturing Unite Working or Not Prediction*](https://github.com/sneha1606/Manufacturing-Prediction)
 
 Overview:
 
@@ -46,7 +34,7 @@ The Histogram to show the categorical varibale spread and th confusion Matrix fo
 
 ![](https://github.com/sneha1606/Sneha_Mishra_Portfolio/blob/master/Images/HistogramPlot.jpg)
 
-[*Project 4: Heart Disease Risk Analysis*](https://github.com/sneha1606/Heart-Disease-Risk)
+[*Project 3: Heart Disease Risk Analysis*](https://github.com/sneha1606/Heart-Disease-Risk)
 
 Overview:
 
@@ -55,7 +43,7 @@ Tool Used: Python
 
 This project is used to analyse and predict the heart risk that can occur to a person considering the factors which are as followed, risk of heart disease depending on the blood pressure of the person, risk of heart disease and it erelation with the age and risk of heart disease for a smoker or a non smoker person. 
 
-[*Project 5: Insurance Prediction*](https://github.com/sneha1606/Predict-insurance)
+[*Project 4: Insurance Prediction*](https://github.com/sneha1606/Predict-insurance)
 
 Overview:
 
@@ -64,7 +52,7 @@ Tool Used: Python
 
 This project is used to predict a persons insurance charges which can be levied using the method of regression, the parameters such as bmi, age, sex, etc. are used to determine these charges.
 
-[*Project 6: Elearn Portal Database*](https://github.com/sneha1606/Elearn-Portal-Database)
+[*Project 5: Elearn Portal Database*](https://github.com/sneha1606/Elearn-Portal-Database)
 
 Overview:
 
@@ -77,7 +65,7 @@ The sudden shift towards the online educational methods due to the current pande
 
 ![](https://github.com/sneha1606/Sneha_Mishra_Portfolio/blob/master/Images/Entity%20Relationship%20Diagram.png)
 
-[*Project 7: Google Play Store Analysis*](https://github.com/sneha1606/GooglePlayStore)
+[*Project 6: Google Play Store Analysis*](https://github.com/sneha1606/GooglePlayStore)
 
 Overview:
 
@@ -90,7 +78,7 @@ Internet is a true gold mine of data. E-commerce and review sites have a lot of 
 
 ![](https://github.com/sneha1606/Sneha_Mishra_Portfolio/blob/master/Images/Random%20Forest%20Google%20Play.PNG)
 
-[*Project 8: Fashion MNIST*](https://github.com/sneha1606/FashionMNIST_Dataset)
+[*Project 7: Fashion MNIST*](https://github.com/sneha1606/FashionMNIST_Dataset)
 
 Overview:
 
